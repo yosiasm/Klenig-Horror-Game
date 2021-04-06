@@ -1,0 +1,25 @@
+sceneSetups:
+- path: Assets/bukanAR.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/emper.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/home.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/sumting.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/probiotik.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/platformer.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

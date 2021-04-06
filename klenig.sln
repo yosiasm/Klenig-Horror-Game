@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "klenig", "Assembly-CSharp.csproj", "{239F3F1D-6212-212B-A733-7E44933DF618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "klenig", "Assembly-CSharp-Editor.csproj", "{ED503947-E86F-5971-DDC0-516FF51F1A5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{239F3F1D-6212-212B-A733-7E44933DF618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239F3F1D-6212-212B-A733-7E44933DF618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239F3F1D-6212-212B-A733-7E44933DF618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239F3F1D-6212-212B-A733-7E44933DF618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED503947-E86F-5971-DDC0-516FF51F1A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED503947-E86F-5971-DDC0-516FF51F1A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED503947-E86F-5971-DDC0-516FF51F1A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED503947-E86F-5971-DDC0-516FF51F1A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

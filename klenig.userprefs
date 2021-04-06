@@ -1,0 +1,64 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\frame\tuts\helpme.cs">
+    <Files>
+      <File FileName="Assets\Editor\CreatePlane.cs" Line="1" Column="1" />
+      <File FileName="Assets\ScrollSnapRect.cs" Line="1" Column="1" />
+      <File FileName="Assets\follow.cs" Line="1" Column="1" />
+      <File FileName="Assets\followX.cs" Line="1" Column="1" />
+      <File FileName="Assets\changeScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\front\swap.cs" Line="1" Column="1" />
+      <File FileName="Assets\scriptAR\cameraScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scriptAR\gpstext.cs" Line="1" Column="1" />
+      <File FileName="Assets\scriptAR\gpscor.cs" Line="1" Column="1" />
+      <File FileName="Assets\scriptAR\gpsplacing.cs" Line="1" Column="1" />
+      <File FileName="Assets\scriptAR\Atan.cs" Line="1" Column="1" />
+      <File FileName="Assets\scriptAR\inigps.cs" Line="1" Column="1" />
+      <File FileName="Assets\scriptAR\gerak.cs" Line="1" Column="1" />
+      <File FileName="Assets\scriptAR\bukatutup.cs" Line="1" Column="1" />
+      <File FileName="Assets\scriptAR\fading.cs" Line="1" Column="1" />
+      <File FileName="Assets\scriptAR\mbatin.cs" Line="1" Column="1" />
+      <File FileName="Assets\scriptAR\samakanpresepsi.cs" Line="15" Column="3" />
+      <File FileName="Assets\randomscream.cs" Line="1" Column="1" />
+      <File FileName="Assets\gantiskin.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\front\sembunyi.cs" Line="1" Column="1" />
+      <File FileName="Assets\cerminmundur.cs" Line="1" Column="1" />
+      <File FileName="Assets\aksicer.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\bunder\futar.cs" Line="7" Column="1" />
+      <File FileName="Assets\frame\bunder\kenduk.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\weapon\kelip.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\weapon\weaponnaik.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\cermin\swaper.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\tom\tomcard.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\tom\tompon.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\tom\kembalipon.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\tom\kembalicard.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\tom\moontom.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\milky\bintang.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\milky\mini.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\milky\fadeikut.cs" Line="1" Column="1" />
+      <File FileName="Assets\gyroparalax.cs" Line="1" Column="1" />
+      <File FileName="Assets\musrik\dipencetbunyi.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\weapon\koperasiweapon.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\weapon\ikitombolweapon.cs" Line="1" Column="1" />
+      <File FileName="Assets\scriptAR\summon.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\cermin\background\unittest.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\ui camera\driji.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\tuts\helpme.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\bunder\raycasbul.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\1\swaptabir.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\bunder\kenduk2.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\tuts\cameraerror.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\weapon\decoration.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\tuts\camrapermission.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\tuts\locationpermission.cs" Line="1" Column="1" />
+      <File FileName="Assets\frame\bunder\dada.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\us3rname\Documents\klenig\Assets\CurvedUI\Scripts\TessellationVertexEffect.cs" line="6" column="15" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
